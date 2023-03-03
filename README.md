@@ -1,5 +1,5 @@
 # PSBatchNumberFiles
-Batch rename files a sequence of incrementing numbers, based on input filter.
+Batch rename files to a sequence of incrementing numbers based on input filter, while preserving extension.
 
 Parameters: 
   [string] -filter : a regular expression to match to files
